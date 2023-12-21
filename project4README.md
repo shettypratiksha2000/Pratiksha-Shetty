@@ -1,4 +1,4 @@
-Welcome to our Online Shopping Website repository!
+Welcome to Online Shopping Website repository!
 
 This repository contains the codebase for our online shopping platform. Our platform is designed to provide users with a seamless shopping experience, offering a wide range of products across various categories.
 
